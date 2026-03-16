@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/TRAFFICLC/finalproject/nfskzm/build/CMakeFiles/bootloader
+D:/TRAFFICLC/finalproject/nfskzm/build/CMakeFiles/bootloader.rule
+D:/TRAFFICLC/finalproject/nfskzm/build/CMakeFiles/bootloader-complete.rule
+D:/TRAFFICLC/finalproject/nfskzm/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/TRAFFICLC/finalproject/nfskzm/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/TRAFFICLC/finalproject/nfskzm/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/TRAFFICLC/finalproject/nfskzm/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/TRAFFICLC/finalproject/nfskzm/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/TRAFFICLC/finalproject/nfskzm/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/TRAFFICLC/finalproject/nfskzm/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
